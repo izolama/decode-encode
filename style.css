@@ -1,0 +1,15 @@
+.EncoderDecoder {
+    &-decoded {
+      display: inline-block;
+      width: 50%;
+    }
+    &-encoded {
+      display: inline-block;
+      width: 50%;
+    }
+  }
+  textarea {
+      width: 100%;
+      height: 20vh;
+      overflow: auto;
+  }
